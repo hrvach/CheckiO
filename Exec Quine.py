@@ -1,0 +1,1 @@
+s='s=%r;quine=lambda: s%%s';quine=lambda: s%s

@@ -1,0 +1,1 @@
+checkio=lambda a:1-sum([(a[i],1-a[i])['gold' in i] for i in a])/2

@@ -1,0 +1,1 @@
+checkio = lambda a: a==[[e*-1 for e in r] for r in zip(*a)]
